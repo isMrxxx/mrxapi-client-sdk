@@ -1,0 +1,7 @@
+com\mrx\mrxapiclientsdk\MrxapiClientConfig.class
+com\mrx\mrxapiclientsdk\model\User.class
+com\mrx\mrxapiclientsdk\utils\SignUtils.class
+META-INF\spring-configuration-metadata.json
+com\mrx\mrxapiclientsdk\client\MrxApiClient.class
+com\mrx\mrxapiclientsdk\model\AvatarParams.class
+com\mrx\mrxapiclientsdk\model\BaiduParams.class
